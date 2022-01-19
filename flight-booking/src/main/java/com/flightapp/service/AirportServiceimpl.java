@@ -1,9 +1,7 @@
 package com.flightapp.service;
 
-import java.math.BigInteger;
 import java.util.Optional;
 import java.util.Random;
-import java.util.UUID;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

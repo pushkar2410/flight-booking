@@ -7,5 +7,5 @@ import com.flightapp.model.User;
 
 @Repository
 public interface UserDao extends CrudRepository<User, Integer> {
-
+	
 }
